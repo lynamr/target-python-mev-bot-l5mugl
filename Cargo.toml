@@ -1,0 +1,9 @@
+[package]
+name = "target_python_mev_bot_l5mugl"
+version = "0.1.9"
+edition = "2021"
+description = "Utility scaffold — tag 1c11765a"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
