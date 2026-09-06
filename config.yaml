@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (1c11765a99508cab)
+project:
+  name: target-python-mev-bot-l5mugl
+  tag: 1c11765a99508cab
+  env: production
+cfg_shardfwrfto:
+  enabled: true
+  workers: 7
+cfg_bridgecpwe65:
+  timeout_sec: 33
+  retry: 3
+cfg_bridgeu4fxvk:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
